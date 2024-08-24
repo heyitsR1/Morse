@@ -1,0 +1,743 @@
+Time: Fri Aug 23 08:10:15 2024
+ 
+Input: .... 
+Output: HELP
+ 
+====================
+Time: Fri Aug 23 08:12:40 2024
+ 
+Input: .... 
+Output: HI
+ 
+====================
+Time: Fri Aug 23 08:13:14 2024
+ 
+Input: Hello 
+Output: .... . .-.. .-.. --- 
+ 
+====================
+Time: Fri Aug 23 08:15:22 2024
+ 
+Input: .- 
+Output: AAH
+ 
+====================
+Time: Fri Aug 23 08:15:59 2024
+ 
+Input: Aarohan 
+Output: .- .- .-. --- .... .- -. 
+ 
+====================
+Time: Fri Aug 23 08:21:20 2024
+ 
+Input: Aarohan 
+Output: .- .- .-. --- .... .- -. .. ... .- --. .-. . .- - --. ..- -.-- -.-.-- 
+ 
+====================
+Time: Fri Aug 23 08:21:32 2024
+ 
+Input:  .- 
+Output: AAROHANISAGREATGUY!
+ 
+====================
+Time: Fri Aug 23 08:41:19 2024
+ 
+Input: fsdlkjfa 
+Output: ??
+ 
+====================
+Choice: m 
+Time: Fri Aug 23 08:43:10 2024
+ 
+Input: sldfkjhsdlf 
+Output: ?
+ 
+====================
+Choice: m 
+Time: Fri Aug 23 08:44:05 2024
+ 
+Input: sdlfhjl 
+Output: ?
+ 
+====================
+Choice: m 
+Time: Fri Aug 23 08:45:03 2024
+ 
+Input: dslfslf 
+Output: ?(Invalid)
+ 
+====================
+Choice: m 
+Time: Fri Aug 23 08:45:24 2024
+ 
+Input: .... 
+Output: H?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:46:13 2024
+ 
+Input: ldsjfhls 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:46:59 2024
+ 
+Input: sjfdsoh48 
+Output: ... .--- ..-. -.. ... --- .... ? ? 
+ 
+====================
+Time: Fri Aug 23 08:47:25 2024
+ 
+Input: lasdf99 
+Output: .-.. .- ... -.. ..-. ----. ----. 
+ 
+====================
+Time: Fri Aug 23 08:48:18 2024
+ 
+Input: lsdfh 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:54:40 2024
+ 
+Input: slfjhdl 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:55:55 2024
+ 
+Input: ldsfls 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:56:34 2024
+ 
+Input: sdfl 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:57:15 2024
+ 
+Input: 284230u 
+Output: ..--- ---.. ....- ..--- ...-- ----- ..- ... ..-. .- 
+ 
+====================
+Time: Fri Aug 23 08:57:23 2024
+ 
+Input: .- 
+Output: .-.-.- ? 
+ 
+====================
+Time: Fri Aug 23 08:58:02 2024
+ 
+Input: fldksjf 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:58:35 2024
+ 
+Input: sfldsj 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:59:22 2024
+ 
+Input: lsfdhj 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 08:59:43 2024
+ 
+Input: .--çå∂ 
+Output: .-.-.- ? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)
+ 
+====================
+Time: Fri Aug 23 09:00:25 2024
+ 
+Input: ∂œø® 
+Output: ? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)
+ 
+====================
+Time: Fri Aug 23 09:01:29 2024
+ 
+Input: sdklfj 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 09:01:49 2024
+ 
+Input: çå∆ 
+Output: ? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)? (Invalid)
+ 
+====================
+Time: Fri Aug 23 09:02:51 2024
+ 
+Input: sdfljk 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 09:03:32 2024
+ 
+Input: .......................................... 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 09:03:39 2024
+ 
+Input: dsfkflksdj 
+Output: -.. ... ..-. -.- ..-. .-.. -.- ... -.. .--- .- ..-. .--- ... -.. .-.. -.- ..-. .--- .- -.. ..-. -.- .-.. -.. .- ... .--- .-.. .- .--- ..-. .-.. .--- -.. ... .- .-.. .- .-.. ..-. .--- -.. .-.. ... 
+ 
+====================
+Time: Fri Aug 23 09:04:01 2024
+ 
+Input: 32023 
+Output: ...-- ..--- ----- ..--- ...-- .- ..-. ... -.. ..-. ? (Invalid)? (Invalid)? (Invalid)--..-- .-.-.- ? (Invalid)? (Invalid)? (Invalid)
+ 
+====================
+Time: Fri Aug 23 09:59:20 2024
+ 
+Input: .-- 
+Output: WE?(Invalid)RE?(Invalid)STILL?(Invalid)HERE
+ 
+====================
+Time: Fri Aug 23 10:31:42 2024
+ 
+Input: lsdafhfljsadf 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 10:32:37 2024
+ 
+Input: sdlfjsdlf 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 10:32:58 2024
+ 
+Input: 32048 
+Output: ...-- ..--- ----- ....- ---.. 
+ 
+====================
+Time: Fri Aug 23 10:33:59 2024
+ 
+Input: sldfjlsd 
+Output: ... .-.. -.. ..-. .--- .-.. ... -.. 
+ 
+====================
+Time: Fri Aug 23 10:40:36 2024
+ 
+Input: sdlfjlsdj 
+Output: ?(Invalid)
+ 
+====================
+Time: Fri Aug 23 10:41:20 2024
+ 
+Input: kdsjhf 
+Output: -.- -.. ... .--- .... ..-. 
+ 
+====================
+Time: Fri Aug 23 10:41:37 2024
+ 
+Input: dfslç 
+Output: -.. ..-. ... .-.. ? (Invalid)? (Invalid)
+ 
+====================
+Time: Fri Aug 23 10:42:14 2024
+ 
+Input: ..__ 
+Output: .-.-.- .-.-.- ? (Invalid)? (Invalid)
+ 
+====================
+Time: Fri Aug 23 10:44:05 2024
+ 
+Input: ..- 
+Output: .-.-.- .-.-.- ? (Invalid).-.-.- .-.-.- ? (Invalid)
+ 
+====================
+Time: Fri Aug 23 10:44:19 2024
+ 
+Input: q945038woreitjldksfg 
+Output: --.- ----. ....- ..... ----- ...-- ---.. .-- --- .-. . .. - .--- .-.. -.. -.- ... ..-. --. 
+ 
+====================
+Time: Fri Aug 23 10:44:28 2024
+ 
+Input:  
+Output: 
+ 
+====================
+Time: Fri Aug 23 10:44:40 2024
+ 
+Input: []"::"? 
+Output: ? (Invalid)? (Invalid).-..-. ---... ---... .-..-. ..--.. 
+ 
+====================
+Time: Fri Aug 23 10:47:09 2024
+ 
+Input: ..-''ç 
+Output: .-.-.- .-.-.- ? (Invalid)
+ 
+====================
+Time: Fri Aug 23 10:49:11 2024
+ 
+Input: .... 
+Output: HELP
+ 
+====================
+Time: Fri Aug 23 11:03:41 2024
+ 
+Input: .... 
+Output: HELP
+ 
+====================
+Time: Fri Aug 23 11:04:00 2024
+ 
+Input: help 
+Output: .... . .-.. .--. 
+ 
+====================
+Time: Fri Aug 23 11:07:56 2024
+ 
+ Input: .... 
+ Output: HI
+====================
+Time: Fri Aug 23 11:21:44 2024
+ 
+ Input: Help 
+ Output: .... . .-.. .--. 
+====================
+Time: Fri Aug 23 11:25:16 2024
+ 
+ Input: .... 
+ Output: HIH?(Invalid)AN
+====================
+Time: Sat Aug 24 18:12:29 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- ..-. --- .-.. -.- ... 
+====================
+Time: Sat Aug 24 18:14:31 2024
+ 
+ Input: .... 
+ Output: HELLOFOLKS
+====================
+Time: Sat Aug 24 18:31:10 2024
+ 
+ Input: .... 
+ Output: H/E/L/L/O/?(Invalid)H/E/L/L/O/F/O/L/K/S/
+====================
+Time: Sat Aug 24 18:32:45 2024
+ 
+ Input: .... 
+ Output: H/I/?(Invalid)H/U/A/A/
+====================
+Time: Sat Aug 24 18:33:42 2024
+ 
+ Input: .... 
+ Output: H/?(Invalid)I/
+====================
+Time: Sat Aug 24 18:42:23 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.--. . --- .--. .-.. . /
+====================
+Time: Sat Aug 24 18:48:47 2024
+ 
+ Input:  .... 
+ Output: HELLO?(Invalid)EOPLE?(Invalid)
+====================
+Time: Sat Aug 24 19:08:14 2024
+ 
+ Input: .... 
+ Output: HELLO?(Invalid)EOPLE?(Invalid)
+====================
+Time: Sat Aug 24 19:12:00 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- /.--. . --- .--. .-.. . /
+====================
+Time: Sat Aug 24 19:12:08 2024
+ 
+ Input:  .... 
+ Output: HELLO?(Invalid)EOPLE?(Invalid)
+====================
+Time: Sat Aug 24 19:14:07 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- /.--. . --- .--. .-.. . /
+====================
+Time: Sat Aug 24 19:15:34 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- /.--. . --- .--. .-.. . /
+====================
+Time: Sat Aug 24 19:16:06 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- /.--. . --- .--. .-.. . /
+====================
+Time: Sat Aug 24 19:16:19 2024
+ 
+ Input: .... 
+ Output: HELLO?(Invalid)PEOPLE?(Invalid)
+====================
+Time: Sat Aug 24 19:17:41 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.--. . --- .--. .-.. . /
+====================
+Time: Sat Aug 24 19:17:51 2024
+ 
+ Input:  .... 
+ Output: HELLO?(Invalid)PEOPLE?(Invalid)
+====================
+Time: Sat Aug 24 19:18:07 2024
+ 
+ Input:  .... 
+ Output: HELLO?(Invalid)PEOPLE?(Invalid)
+====================
+Time: Sat Aug 24 19:21:33 2024
+ 
+ Input:  .... 
+ Output: HELLO?(Invalid)PEOPLE?(Invalid)
+====================
+Time: Sat Aug 24 19:21:55 2024
+ 
+ Input:  .... 
+ Output: HELLO?(Invalid)PEOPLE?(Invalid)
+====================
+Time: Sat Aug 24 19:31:53 2024
+ 
+ Input:             printf("/n 
+ Output: ?(Invalid)?(Invalid)?(Invalid)
+====================
+Time: Sat Aug 24 19:32:22 2024
+ 
+ Input: .... 
+ Output: HI?(Invalid)HI
+====================
+Time: Sat Aug 24 19:34:09 2024
+ 
+ Input: .... 
+ Output: HI HI
+====================
+Time: Sat Aug 24 19:35:29 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- /. ...- . .-. -.-- --- -. . -.-.-- /- .... .. ... /.. ... /-- --- .-. ... . /
+====================
+Time: Sat Aug 24 19:35:38 2024
+ 
+ Input: SOS 
+ Output: ... --- ... /
+====================
+Time: Sat Aug 24 20:36:49 2024
+ 
+ Input:  .... 
+ Output: HEL WORLD
+====================
+Time: Sat Aug 24 20:37:32 2024
+ 
+ Input:  .... 
+ Output: HELLO WORLD
+====================
+Time: Sat Aug 24 20:37:54 2024
+ 
+ Input:  HELLO 
+ Output: .... . .-.. .-.. --- /.-- --- .-. .-.. -.. /
+====================
+Time: Sat Aug 24 20:48:00 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- /
+====================
+Time: Sat Aug 24 20:48:10 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- /
+====================
+Time: Sat Aug 24 20:51:26 2024
+ 
+ Input: Hello 
+ Output: .... . .-.. .-.. --- 
+====================
+Time: Sat Aug 24 20:52:51 2024
+ 
+ Input: .... 
+ Output: HELLO WORLD
+====================
+Time: Sat Aug 24 20:53:00 2024
+ 
+ Input: HELLO 
+ Output: .... . .-.. .-.. --- /
+====================
+Time: Sat Aug 24 20:53:10 2024
+ 
+ Input: HELLO 
+ Output: .... . .-.. .-.. --- /
+====================
+Time: Sat Aug 24 20:53:16 2024
+ 
+ Input: HELLO 
+ Output: .... . .-.. .-.. --- /
+====================
+Time: Sat Aug 24 20:55:57 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.-- --- .-. .-.. -.. /
+====================
+Time: Sat Aug 24 20:56:15 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.-- --- .-. .-.. -.. /
+====================
+Time: Sat Aug 24 20:56:47 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.-- --- .-. .-.. -.. /
+====================
+Time: Sat Aug 24 20:59:09 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.-- --- .-. .-.. -.. /
+====================
+Time: Sat Aug 24 20:59:50 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.-- --- .-. .-.. -.. 
+====================
+Time: Sat Aug 24 20:59:59 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.-- --- .-. .-.. -.. 
+====================
+Time: Sat Aug 24 21:00:09 2024
+ 
+ Input: .... 
+ Output: HELLO WORLD
+====================
+Time: Sat Aug 24 21:01:11 2024
+ 
+ Input: . 
+ Output: E
+====================
+Time: Sat Aug 24 21:01:19 2024
+ 
+ Input: e 
+ Output: . 
+====================
+Time: Sat Aug 24 21:01:40 2024
+ 
+ Input: Hello, 
+ Output: .... . .-.. .-.. --- --..-- /.-- --- .-. .-.. -.. -.-.-- 
+====================
+Time: Sat Aug 24 21:02:04 2024
+ 
+ Input: dsf 
+ Output: -.. ... ..-. 
+====================
+Time: Sat Aug 24 21:02:08 2024
+ 
+ Input: .... 
+ Output: HELLO, WORLD!
+====================
+Time: Sat Aug 24 21:02:18 2024
+ 
+ Input:  
+ Output: 
+====================
+Time: Sat Aug 24 21:02:22 2024
+ 
+ Input:   
+ Output: 
+====================
+Time: Sat Aug 24 21:02:33 2024
+ 
+ Input:  
+ Output: 
+====================
+Time: Sat Aug 24 21:02:51 2024
+ 
+ Input: THIS 
+ Output: - .... .. ... /.. ... /.-.-.- /.- /- . ... - /..-. --- .-. /... .--. .- -.-. .. -. --. 
+====================
+Time: Sat Aug 24 21:03:04 2024
+ 
+ Input:  - 
+ Output: THIS IS . A TEST FOR SPACING
+====================
+Time: Sat Aug 24 21:03:27 2024
+ 
+ Input: ... 
+ Output: SELLO WORLD .
+====================
+Time: Sat Aug 24 21:15:57 2024
+ 
+ Input: { 
+ Output: ?(Invalid)
+====================
+Time: Sat Aug 24 21:16:11 2024
+ 
+ Input: [ 
+ Output: ?(Invalid)
+====================
+Time: Sat Aug 24 21:16:17 2024
+ 
+ Input: ( 
+ Output: ?(Invalid)
+====================
+Time: Sat Aug 24 21:16:45 2024
+ 
+ Input: ====\ 
+ Output: ?(Invalid)
+====================
+Time: Sat Aug 24 21:21:43 2024
+ 
+ Input: jsdlfkadsfjasdlkjf 
+ Output: ?(Invalid)?(Invalid)?(Invalid)
+====================
+Time: Sat Aug 24 21:25:31 2024
+ 
+ Input:  
+ Output: 
+====================
+Time: Sat Aug 24 21:43:31 2024
+ 
+ Input: sdlkfjasdlkfjklasdjfkladsjfklajsdlfjasd' 
+ Output: ?(Invalid)
+====================
+Time: Sat Aug 24 21:43:44 2024
+ 
+ Input:  
+ Output: 
+====================
+Time: Sat Aug 24 21:43:53 2024
+ 
+ Input: adslkfjakldfj 
+ Output: .- -.. ... .-.. -.- ..-. .--- .- -.- .-.. -.. ..-. .--- /.- .-.. .--- ..-. -.. .--- .- /..-. .-.. .--- -.. ... .-.. -.- ..-. .--- .- .-.. /..-. .--- .- .--- -.. ... ..-. /.- -.. ... ..-. 
+====================
+Time: Sat Aug 24 22:00:13 2024
+ 
+ Input: adsjf 
+ Output: ?(Invalid)
+====================
+Time: Sat Aug 24 22:00:17 2024
+ 
+ Input: lkadfjkladsj 
+ Output: .-.. -.- .- -.. ..-. .--- -.- .-.. .- -.. ... .--- /..-. .-.. .--- .- -.. ... .-.. ..-. .--- ... -.. .-.. ..-. .--- .-.. /.- .--- ..-. .-.. .- -.. ... .--- ..-. .-.. -.-.-. .--- .- -.. ... .-.. -.- ..-. .--- .-- .- 
+====================
+Time: Sat Aug 24 22:12:18 2024
+ 
+ Input:  
+ Output: 
+====================
+Time: Sat Aug 24 22:12:29 2024
+ 
+ Input: ldaslkfjadslf 
+ Output: .-.. -.. .- ... .-.. -.- ..-. .--- .- -.. ... .-.. ..-. /.- .--- /..-. -.- .-.. -.. .- /..-. .-.. .- .--- ..-. .-.. -.. .- ..-. .--- .- -.. /.-.. ..-. .--- .- /-.. .-.. ..-. .--- -.. .- ..-. /.- -.. 
+====================
+Time: Sat Aug 24 22:24:09 2024
+ 
+ Input:  
+ Output: 
+====================
+Time: Sat Aug 24 22:24:19 2024
+ 
+ Input: kdsfj 
+ Output: -.- -.. ... ..-. .--- 
+====================
+Time: Sat Aug 24 22:24:24 2024
+ 
+ Input: adfljasdlf 
+ Output: .- -.. ..-. .-.. .--- .- ... -.. .-.. ..-. 
+====================
+Time: Sat Aug 24 22:29:29 2024
+ 
+ Input: sdfkjakldfj 
+ Output: ... -.. ..-. -.- .--- .- -.- .-.. -.. ..-. .--- /.-.. .- ..-. .- /..-. .--- .-.. -.. ... .--- ..-. /.- .-.. ..-. .--- -.. ... .-.. 
+====================
+Time: Sat Aug 24 22:30:32 2024
+ 
+ Input: ............ 
+ Output: ?(Invalid)5?(Invalid)?(Invalid)5EEEEEEEEIEEEI?(Invalid)
+====================
+Time: Sat Aug 24 22:31:59 2024
+ 
+ Input: lsdfkjasdkl 
+ Output: ?(Invalid)?(Invalid)
+====================
+Time: Sat Aug 24 22:32:07 2024
+ 
+ Input: fdsjklsadjfkl 
+ Output: ?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)
+====================
+Time: Sat Aug 24 22:34:46 2024
+ 
+ Input: lkasfjdlk 
+ Output: ?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)?(Invalid)
+====================
+Time: Sat Aug 24 22:46:51 2024
+ 
+ Input:  
+ Output: 
+====================
+Time: Sat Aug 24 22:46:57 2024
+ 
+ Input: sdfsdf 
+ Output: ... -.. ..-. ... -.. ..-. 
+====================
+Time: Sat Aug 24 22:47:26 2024
+ 
+ Input: fasdlfjkals 
+ Output: ..-. .- ... -.. .-.. ..-. .--- -.- .- .-.. ... /-.. 
+====================
+Time: Sat Aug 24 22:47:31 2024
+ 
+ Input:  
+ Output: 
+====================
+Time: Sat Aug 24 22:47:37 2024
+ 
+ Input: lkadsjf 
+ Output: .-.. -.- .- -.. ... .--- ..-. /-.- .-.. .- ... .--- .... /..-. .-.. -.. .- .--- ..-. .-.. .--- .- .-.. ... -.. ..-. .-.. -.- .- -.. ... .... ..-. -.-.-. .- ... -.. /.-.. ..-. /.- -.. ... .-.. -.-.-. ..-. 
+====================
+Time: Sat Aug 24 22:57:40 2024
+ 
+ Input: hello 
+ Output: .... . .-.. .-.. --- /.--. . --- .--. .-.. . 
+====================
+Time: Sat Aug 24 22:57:56 2024
+ 
+ Input: .... 
+ Output: HELLO PEOPLE
+====================
+Time: Sat Aug 24 22:58:34 2024
+ 
+ Input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+ Output: .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- 
+====================
+Time: Sat Aug 24 22:58:45 2024
+ 
+ Input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+ Output: .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- .- 
+====================
+Time: Sat Aug 24 23:00:48 2024
+ 
+ Input: afjasklf 
+ Output: .- ..-. .--- .- ... -.- .-.. ..-. /..-. .- -.- .-.. -.. ... .--- ..-. /.-.. .- .--- ..-. .-.. /.- ..-. .--- .- -.. ... ..-. /.-.. .--- .- ..-. .-.. .--- -.. 
+====================
+Time: Sat Aug 24 23:00:54 2024
+ 
+ Input: ekfa 
+ Output: . -.- ..-. .- /-.. .--- -.- ..-. .-.. -.. ... ..-. -.- .- ... -.- -.-.-. /..-. -.. .--- .- -.. ... ..-. /.- ..-. -.-.-. -.. ... -.-.-. .- .--- /..-. -.. ... .- ..-. 
+====================
+Time: Sat Aug 24 23:01:43 2024
+ 
+ Input: . 
+ Output: EEEEEEEEEEEEEEEEE
+====================
+Time: Sat Aug 24 23:01:59 2024
+ 
+ Input: . 
+ Output: EEEEEEEIEEEEEEEEEEEEEEEEEEEEEEEIEEEIEEEEIEEEIEEIEEEIEEEI
+====================
